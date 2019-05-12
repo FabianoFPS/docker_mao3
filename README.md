@@ -1,2 +1,2 @@
 # docker_mao3
-Exemplo de utilização do Docker - Docker hub
+Exemplo de utilização do Docker - Docker hub - (local?)
