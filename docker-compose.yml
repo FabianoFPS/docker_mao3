@@ -14,4 +14,4 @@ db:
    - /var/lib/mysql
   environment:
    - MYSQL_ROOT_PASSWORD=myrootpass
-- MYSQL_DATABASE=mydatabase
+   - MYSQL_DATABASE=mydatabase
